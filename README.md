@@ -1,6 +1,9 @@
 # Javadocs moved
-The Javadocs have been moved to [JavaBotBlockAPI.github.io/javadocs](https://javabotblockapi.github.io/javadocs).  
-Sourcecode can be found [here](https://github.com/JavaBotBlockAPI/javadocs)
+The Javadocs have been merged into the sourcecode of [JavaBotBlockAPI](https://github.com/botblock/JavaBotBlockAPI).
+
+You can view a live-version of the up-to-date Javadocs [here](https://docs.botblock.org/JavaBotBlockAPI)
+
+**This repository was archived and is no longer maintained!**
 
 ----
 # jbba-doc
